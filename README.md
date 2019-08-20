@@ -16,13 +16,13 @@ Just check 👀 the [Example Links](X%20-%20Example%20Links.md) and [Template of
    1. Create folder and save your links to it
    2. You may fix other ones links (if it's broken)
 6. Create a new branch `git branch <branch_name>`
-7.  Change your branch `git checkout <branch_name>`
-8.  Add all changes to that brach `git add .`
-9.  Push to github `git push origin <branch_name>`
+7. Change your branch `git checkout <branch_name>`
+8. Add all changes to that brach `git add .`
+9. Push to github `git push origin <branch_name>`
 
 ## TODO
 
-- [ ] If this repo has lots of resource, regroup them to folders. 
+- [ ] If this repo has lots of resource, regroup them to folders.
 
 ## Support & Help
 
