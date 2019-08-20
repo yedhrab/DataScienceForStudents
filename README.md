@@ -20,6 +20,10 @@ Just check 👀 the [Example Links](X%20-%20Example%20Links.md) and [Template of
 8. Add all changes to that brach `git add .`
 9. Push to github `git push origin <branch_name>`
 
+## Useful People
+
+- [Nabih Ibrahim Bawazir - LinkedIn](https://www.linkedin.com/in/nabihbawazir/)
+
 ## TODO
 
 - [ ] If this repo has lots of resource, regroup them to folders.
