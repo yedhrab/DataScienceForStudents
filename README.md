@@ -20,6 +20,12 @@ Just check 👀 the [Example Links](X%20-%20Example%20Links.md) and [Template of
 8.  Add all changes to that brach `git add .`
 9.  Push to github `git push origin <branch_name>`
 
-## Licanse
+## TODO
+
+- [ ] If this repo has lots of resource, regroup them to folders. 
+
+## Support & Help
+
+- You can create [Issue 💥](https://github.com/yedhrab/DataScienceForStudents/issues) for you opinion and supports.
 
 🎈 Open Source 🎈
