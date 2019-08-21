@@ -20,9 +20,10 @@ Just check 👀 the [Example Links](X%20-%20Example%20Links.md) and [Template of
 8. Add all changes to that brach `git add .`
 9. Push to github `git push origin <branch_name>`
 
-## Useful People
+## Useful Tips
 
 - [Nabih Ibrahim Bawazir - LinkedIn](https://www.linkedin.com/in/nabihbawazir/)
+- [Video courses of DS - Drive](https://drive.google.com/open?id=1IhifsrBR4besfTnOIw-iSbsOTTsUgy7A)
 
 ## TODO
 
